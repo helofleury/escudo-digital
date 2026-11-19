@@ -141,6 +141,6 @@ Tudo o que o MVP prometia está entregue e funcionando de ponta a ponta:
 |---|---|
 | Heloísa Fleury Jardim | RM556378 |
 | Juan Fuentes Rufino | RM557673 |
-| Rickelmyn de Souza Ruescas | RM556055 |
 | Paulo Henrique Monteiro Golovanevsky | RM555300 |
 | Pedro Henrique Silva Batista | RM558137 |
+| Rickelmyn de Souza Ruescas | RM556055 |
