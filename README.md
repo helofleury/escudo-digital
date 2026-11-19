@@ -17,8 +17,6 @@ Unir tecnologia, prevenção e educação para que as pessoas identifiquem golpe
 
 ## 📱 Telas
 
-> Adicione os prints do app na pasta `docs/screens/` com os nomes abaixo e eles aparecerão aqui.
-
 | | | |
 |:---:|:---:|:---:|
 | **1. Boas-vindas**<br><img src="docs/screens/01-boas-vindas.png" width="200" alt="Boas-vindas"> | **2. Cadastro**<br><img src="docs/screens/02-cadastro.png" width="200" alt="Cadastro"> | **3. Início**<br><img src="docs/screens/03-inicio.png" width="200" alt="Início"> |
