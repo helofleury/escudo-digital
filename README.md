@@ -19,10 +19,10 @@ Unir tecnologia, prevenção e educação para que as pessoas identifiquem golpe
 
 | | | |
 |:---:|:---:|:---:|
-| **1. Boas-vindas**<br><img src="docs/screens/01-boas-vindas.png" width="200" alt="Boas-vindas"> | **2. Cadastro**<br><img src="docs/screens/02-cadastro.png" width="200" alt="Cadastro"> | **3. Início**<br><img src="docs/screens/03-inicio.png" width="200" alt="Início"> |
-| **4. Nova verificação**<br><img src="docs/screens/04-nova-verificacao.png" width="200" alt="Nova verificação"> | **5. Analisando**<br><img src="docs/screens/05-analisando.png" width="200" alt="Analisando"> | **6. Resultado**<br><img src="docs/screens/06-resultado.png" width="200" alt="Resultado"> |
-| **7. Educação**<br><img src="docs/screens/07-educacao.png" width="200" alt="Educação"> | **8. Simulador**<br><img src="docs/screens/08-simulador.png" width="200" alt="Simulador"> | **9. Perfil e ajustes**<br><img src="docs/screens/09-perfil.png" width="200" alt="Perfil e ajustes"> |
-| **10. Histórico**<br><img src="docs/screens/10-historico.png" width="200" alt="Histórico"> | | |
+| **1. Boas-vindas**<br><img src="assets/boas-vindas.jpeg" width="200" alt="Boas-vindas"> | **2. Cadastro**<br><img src="assets/cadastro.jpeg" width="200" alt="Cadastro"> | **3. Início**<br><img src="assets/home-ed.jpeg" width="200" alt="Início"> |
+| **4. Verificação**<br><img src="assets/verificacao.jpeg" width="200" alt="Nova verificação"> | **5. Analisando**<br><img src="assets/analisando.jpeg" width="200" alt="Analisando"> | **6. Resultado**<br><img src="assets/resultado.jpeg" width="200" alt="Resultado"> 
+| **7. Histórico**<br><img src="assets/historico.jpeg" width="200" alt="Histórico"> | **8. Educação**<br><img src="assets/educacao.jpeg" width="200" alt="Educação"> | **9. Simulador**<br><img src="assets/simulador1.jpeg" width="200" alt="Simulador"> 
+| **10. Simulador**<br><img src="assets/simulador2.jpeg" width="200" alt="Simulador"> | **11. Perfil e ajustes**<br><img src="assets/perfil.jpeg" width="200" alt="Perfil e ajustes"> | | |
 
 ## ✨ Funcionalidades
 
