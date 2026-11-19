@@ -1,0 +1,8 @@
+node_modules/
+.expo/
+dist/
+*.log
+.env
+backend/.venv/
+backend/__pycache__/
+backend/*.joblib
